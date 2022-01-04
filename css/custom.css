@@ -1,0 +1,13 @@
+.error{
+    color: rgb(184, 0, 0);
+}
+
+.success{
+    color: rgb(0, 88, 0);
+    font-weight: 900;
+}
+
+.errorMsg{
+    color: rgb(184, 0, 0);
+    font-weight: 900;
+}
